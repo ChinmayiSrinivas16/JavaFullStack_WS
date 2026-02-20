@@ -2,21 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b1d4b86-c59f-4f30-bbdd-35a8d40e6a8a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../BankTask/src/main/java/com/ChinmayiBank/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BankTask/src/main/java/com/ChinmayiBank/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BankTask/src/main/java/com/ChinmayiBank/BankOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BankTask/src/main/java/com/ChinmayiBank/BankOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BankTask/src/main/java/com/ChinmayiBank/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BankTask/src/main/java/com/ChinmayiBank/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/Car/src/SingletonExample/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/Car/src/SingletonExample/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="39qscwRYGNZDg85RzSwIK66fFL9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,15 +31,52 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Test.executor": "Run",
+    "Application.com.example.facadeDesignPattern.Test.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/user/IdeaProjects/Full_Stack_Java_Work/mercjava/MyFirstJava"
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/Java_WS/MyFirstJava"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.com.example.facadeDesignPattern.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.factoryDesign.Test" />
+      <module name="MyFirstJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.factoryDesign.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.facadeDesignPattern.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.facadeDesignPattern.Test" />
+      <module name="MyFirstJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.facadeDesignPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.example.facadeDesignPattern.Test" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
